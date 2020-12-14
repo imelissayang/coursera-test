@@ -19,12 +19,27 @@ body{
 	border: 1px solid black;
 	position: relative;
 	padding: 45px 20px 20px 20px;
-	height: auto;
+	height: 200px;
 	margin-right: auto;
 	margin-left: auto;
 	width: 95%;
 	margin-bottom: 20px;
-	display: block;
+	white-space: -webkit-pre-wrap;
+	overflow: hidden;
+}
+
+#Lorem3 {
+	background-color: gainsboro;
+	border: 1px solid black;
+	position: relative;
+	padding: 45px 20px 20px 20px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 97%;
+	margin-bottom: 20px;
+	white-space: -webkit-pre-wrap;
+	overflow: hidden;
 }
 
 #Lorem #Meats1 {
@@ -59,7 +74,7 @@ body{
 	height: auto;
 }
 
-#Lorem #Meats3 {
+#Lorem3 #Meats3 {
 	background-color: peachpuff;
 	border: 1px solid black;
 	position: absolute;
@@ -167,12 +182,12 @@ body{
  }	
 
  /**small devices**/
-@media (max-width: 767px) and (min-width: 0%){
+@media (max-width: 767px) and (min-width: 0px){
   .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
     float: left;
 }
 	.col-sm-1 {
-    widthsm8.33%;
+   	 widsm: 8.33%;
   	}
   	.col-sm-2 {
   	  widsm: 16.66%;
