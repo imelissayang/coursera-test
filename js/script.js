@@ -47,27 +47,27 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>fullstack-course4/script.js at master · jhu-ep-coursera/fullstack-course4</title>
-    <meta name="description" content="Example code for HTML, CSS, and Javascript for Web Developers Coursera Course - jhu-ep-coursera/fullstack-course4">
+  <title>module3-solution/script.js at master · vakar4uk/module3-solution</title>
+    <meta name="description" content="Module 3 Coding Assignment. Contribute to vakar4uk/module3-solution development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://avatars0.githubusercontent.com/u/13573168?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="jhu-ep-coursera/fullstack-course4" /><meta name="twitter:description" content="Example code for HTML, CSS, and Javascript for Web Developers Coursera Course - jhu-ep-coursera/fullstack-course4" />
-    <meta property="og:image" content="https://avatars0.githubusercontent.com/u/13573168?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="jhu-ep-coursera/fullstack-course4" /><meta property="og:url" content="https://github.com/jhu-ep-coursera/fullstack-course4" /><meta property="og:description" content="Example code for HTML, CSS, and Javascript for Web Developers Coursera Course - jhu-ep-coursera/fullstack-course4" />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/31296706?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="vakar4uk/module3-solution" /><meta name="twitter:description" content="Module 3 Coding Assignment. Contribute to vakar4uk/module3-solution development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/31296706?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="vakar4uk/module3-solution" /><meta property="og:url" content="https://github.com/vakar4uk/module3-solution" /><meta property="og:description" content="Module 3 Coding Assignment. Contribute to vakar4uk/module3-solution development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/74436929/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NDQzNjkyOSwicyI6NjA4MjI2Mjg1LCJjIjoyNzU3NDY2NDk1LCJ0IjoxNjA4NDE4NjY5fQ==--ccba1700216a1f1b55758c30e1bda93dd5b183f33b0f6c7a7d38978d3e8cf6c1" data-refresh-url="/_alive">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/74436929/ws?session=eyJ2IjoiVjMiLCJ1Ijo3NDQzNjkyOSwicyI6NjA4MjI2Mjg1LCJjIjoyNzU4OTU4Mzg0LCJ0IjoxNjA4NDI4MDIxfQ==--004ba60e40ed5a5ab77d71180b61a775c8b9ae0e6e39ee9292595a26594ecf93" data-refresh-url="/_alive">
     <link rel="shared-web-socket-src" href="/socket-worker-5029ae85.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C8C5:62A4:1156438:1ADD653:5FDE8568" data-pjax-transient="true" /><meta name="html-safe-nonce" content="8232b0a08e75ab725545000f1259cdae7b08a884960b9d7489fa98b2f3236a82" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9qaHUtZXAtY291cnNlcmEvZnVsbHN0YWNrLWNvdXJzZTQvdHJlZS9tYXN0ZXIvZXhhbXBsZXMvTGVjdHVyZTI5L2FmdGVyL2pzIiwicmVxdWVzdF9pZCI6IkM4QzU6NjJBNDoxMTU2NDM4OjFBREQ2NTM6NUZERTg1NjgiLCJ2aXNpdG9yX2lkIjoiMzY1NTE3NzI0MzkzMjQzNDE1NiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="a89f8a7eaa6d8dc01b5ca78513652a05d04660461f0cf9a6624fc0c6ab399acf" data-pjax-transient="true" />
+  <meta name="request-id" content="DB9C:7FE3:38B8C1:4DC269:5FDEA9F5" data-pjax-transient="true" /><meta name="html-safe-nonce" content="8232b0a08e75ab725545000f1259cdae7b08a884960b9d7489fa98b2f3236a82" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS92YWthcjR1ay9tb2R1bGUzLXNvbHV0aW9uL3RyZWUvbWFzdGVyL2pzIiwicmVxdWVzdF9pZCI6IkRCOUM6N0ZFMzozOEI4QzE6NERDMjY5OjVGREVBOUY1IiwidmlzaXRvcl9pZCI6IjM2NTUxNzcyNDM5MzI0MzQxNTYiLCJyZWdpb25fZWRnZSI6InNlYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="92e2d50e01ac0ae4209a7d4a34982b6d522dec2a78400f61fb23492c46f9b3fe" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:51732606" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:103604721" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -104,22 +104,22 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZTQxMjUxZWNkYjY2MTk5Y2M0YzRkNmVjYWExY2E4ZDMwMjZlNzE4Y2JkYmMzODI5NWE1MDE0MjcxYzViMDdlZHx7InJlbW90ZV9hZGRyZXNzIjoiNDcuMTQ3LjI5LjMzIiwicmVxdWVzdF9pZCI6IkM4QzU6NjJBNDoxMTU2NDM4OjFBREQ2NTM6NUZERTg1NjgiLCJ0aW1lc3RhbXAiOjE2MDg0MTg2NjksImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YzQ4ODhiZmMxZjEzNzY4NWMwNzAxMTY0NDk0NzRlMjBkZWI3NDE5YTk5ZTgzNjkwNDU1NjQxZDBlM2E4OWJiNnx7InJlbW90ZV9hZGRyZXNzIjoiNDcuMTQ3LjI5LjMzIiwicmVxdWVzdF9pZCI6IkRCOUM6N0ZFMzozOEI4QzE6NERDMjY5OjVGREVBOUY1IiwidGltZXN0YW1wIjoxNjA4NDI4MDIxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_HTTP_CACHE_HEADERS,ACTIONS_ENVIRONMENTS,ACTIONS_ENVIRONMENTS,TASK_LIST_AUTOCOMPLETE,MULTI_WORD_SUGGESTER">
 
   <meta http-equiv="x-pjax-version" content="72da585936cb4f0f8e579bc15c2e733ed8e2169930cee94d77bccfac85971673">
   
 
-        <link href="https://github.com/jhu-ep-coursera/fullstack-course4/commits/master.atom" rel="alternate" title="Recent Commits to fullstack-course4:master" type="application/atom+xml">
+        <link href="https://github.com/vakar4uk/module3-solution/commits/master.atom" rel="alternate" title="Recent Commits to module3-solution:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/jhu-ep-coursera/fullstack-course4 git https://github.com/jhu-ep-coursera/fullstack-course4.git">
+  <meta name="go-import" content="github.com/vakar4uk/module3-solution git https://github.com/vakar4uk/module3-solution.git">
 
-  <meta name="octolytics-dimension-user_id" content="13573168" /><meta name="octolytics-dimension-user_login" content="jhu-ep-coursera" /><meta name="octolytics-dimension-repository_id" content="51732606" /><meta name="octolytics-dimension-repository_nwo" content="jhu-ep-coursera/fullstack-course4" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="51732606" /><meta name="octolytics-dimension-repository_network_root_nwo" content="jhu-ep-coursera/fullstack-course4" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="31296706" /><meta name="octolytics-dimension-user_login" content="vakar4uk" /><meta name="octolytics-dimension-repository_id" content="103604721" /><meta name="octolytics-dimension-repository_nwo" content="vakar4uk/module3-solution" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="103604721" /><meta name="octolytics-dimension-repository_network_root_nwo" content="vakar4uk/module3-solution" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
 
-    <link rel="canonical" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/vakar4uk/module3-solution/blob/master/js/script.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -175,7 +175,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-flagged-in="true" data-scope-type="Repository" data-scope-id="51732606" data-scoped-search-url="/jhu-ep-coursera/fullstack-course4/search" data-owner-scoped-search-url="/orgs/jhu-ep-coursera/search" data-unscoped-search-url="/search" action="/jhu-ep-coursera/fullstack-course4/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-flagged-in="true" data-scope-type="Repository" data-scope-id="103604721" data-scoped-search-url="/vakar4uk/module3-solution/search" data-owner-scoped-search-url="/users/vakar4uk/search" data-unscoped-search-url="/search" action="/vakar4uk/module3-solution/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -193,7 +193,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="SAMYNvt+4wy+/6FQJz9ZnT9MstYYgT+NX/4eMM/+x/Cck9X0Vv1P5f79+edV82wDB+NUMQyocpP2k0Vjo2kzyA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="d+cmhAs1fbCOPr2sbBTAmoc8sAvzr3g7KtHYTSfQ1EGjd+tGprbRWc485Rse2PUEv5NW7OeGNSWDvIMeS0cgeQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -289,8 +289,8 @@
     </div>
 
     <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
-      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this organization">
-        In this organization
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this user">
+        In this user
       </span>
       <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
         All GitHub
@@ -383,7 +383,7 @@
       <img class="avatar avatar-user" src="https://avatars2.githubusercontent.com/u/74436929?s=40&amp;v=4" width="20" height="20" alt="@imelissayang" />
       imelissayang
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5BzQ9REZob62u76yxDeOnWhjRdu1OMBMccrWV4EL0f1tAs+D9CrafURoIP+roUUv5VlZC8yQGfejT9SxfcgqWA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UxyQZQgwYhElYiZ9+Z3Qi+T1bbUgOR3X3/k6AbuckYfaAo8T7QMZ0texuDCWCxs5ac9xZVmRxGwNfDjnR19qIg==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -403,7 +403,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzQ0MzY5MjkiLCJ0IjoxNjA4NDE4NjY5fQ==--ecb52ef524331af3c4a1a9039e496e8b2dfb3621782427e345090268d5428e6a">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzQ0MzY5MjkiLCJ0IjoxNjA4NDI4MDIxfQ==--d9254d35be3172f97c6eb55cc16d6e181a161daf8810f9e53b5257a725892ad3">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          
@@ -447,9 +447,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="jhu-ep-coursera/fullstack-course4">This repository</span>
+    <span title="vakar4uk/module3-solution">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/jhu-ep-coursera/fullstack-course4/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/vakar4uk/module3-solution/issues/new/choose" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -551,16 +551,13 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="42560b0e64b8badf36b14eaeef6eaf125a2bd390c7850b3f45ba5adc8c456c5d" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="702f98ce2b00fbcf8a49e71b5709fb9350d20e30853199afb160b4d3ca1b5759" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="9tLzO17FK3TxUfQEL+uBSbH8xP7Jbz5ql/+7Po+0d6DGQ1ZAjW04JJAwhC8ekXF3yx3SwpTPL35vIeNzWQ1zMQ==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="328b256a0b9251112bbe88dfcb495f987a37d395d5b3182022003d4c5e0314f2">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="LmTZUCw26ptQfsFapHovNjmIC1+vsC//k0iFBBaiWOAe9Xwr/575yzEfsXGVAN8IQ2kdY/IQPutrlt1JwBtccQ==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="df34b69acc3d96399f2c5b5377e29064479c1fb1825679fc907b9b87504cdc4b">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
 </div>
-
-
-    
 
 
 
@@ -578,11 +575,11 @@
             <h1 class=" d-flex flex-wrap flex-items-center break-word f3 text-normal">
     <svg class="octicon octicon-repo text-gray mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path></svg>
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/jhu-ep-coursera/hovercard" href="/jhu-ep-coursera">jhu-ep-coursera</a>
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/vakar4uk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vakar4uk">vakar4uk</a>
     </span>
     <span class="mx-1 flex-self-stretch color-text-secondary">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#js-repo-pjax-container" class="" href="/jhu-ep-coursera/fullstack-course4">fullstack-course4</a>
+    <a data-pjax="#js-repo-pjax-container" class="" href="/vakar4uk/module3-solution">module3-solution</a>
   </strong>
   
 </h1>
@@ -600,7 +597,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="8a10720581757931d2cdb6117dd65c754404fb4cc82b60c6992382dacb32ac42" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="4aa06641f9aba9ece6c8427e3b5f412e7914c0867862e642cb5e111c9b8ef1fe" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -644,9 +641,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Hfmp6cKnXW8yD3Gmlj7d0k1mbvSoQ0s0xgYvqYrsaqMoZSvvCHaFB6GEJXzcGPgCXIL1PQ368HfGZ6GTCwBRhQ==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nC5suGVY7N1npaOmVj4rywKUpyq8p8VDF35FhT33B9Spsu6+r4k0tfQu93wcGA4bE3A84xkefgAXH8u/vBs88g==" />
 
-                <input type="hidden" name="repository_id" value="51732606">
+                <input type="hidden" name="repository_id" value="103604721">
 
                 <button
                   type="submit"
@@ -746,9 +743,9 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="X/Jm2cRTtRKYtXMKz87eOuDqnFRbfDLM/Vig7LVBpZVqbuTfDoJtegs+J9CF6Pvq8Q4Hnf7FiY/9OS7WNK2esw==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WCX66N1kX40mMwI9eKmThGfitwmPoIxFVgatBcI9muxtuXjuF7WH5bW4Vucyj7ZUdgYswCoZNwZWZyM/Q9Ghyg==" />
 
-              <input type="hidden" name="repository_id" value="51732606">
+              <input type="hidden" name="repository_id" value="103604721">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -870,11 +867,11 @@
         <div class="notifications-component-dialog-overlay"></div>
       </details>
         <a class="social-count"
-          href="/jhu-ep-coursera/fullstack-course4/watchers"
-          aria-label="965 users are watching this repository"
+          href="/vakar4uk/module3-solution/watchers"
+          aria-label="0 users are watching this repository"
           data-target="notifications-list-subscription-form.socialCount"
         >
-          965
+          0
         </a>
 
     </notifications-list-subscription-form>
@@ -883,37 +880,37 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/jhu-ep-coursera/fullstack-course4/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xh2tpaPzBH2Bbpl8VFmduRaR2LGDT8dBWxkpasmwH6IlYy6Z1habRN4QQvN5zcdX+IdIWPGRMiNYZQKR+NB2mQ==" />
+    <form class="starred js-social-form" action="/vakar4uk/module3-solution/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AksuZvtUL4VGYekwiFbIrTM6sDzYmeUlMeIMnzkpRRbWoCfND+BongZsmCvRWAelCa0ttKusyUFy1GlA4QiEvw==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar jhu-ep-coursera/fullstack-course4" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="8319d77377f7040ec33b75c364dd5bedbb50d62972fcc3d789c42f7036023102" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar vakar4uk/module3-solution" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="8580a9609fbc57bf12b9104a95f02acd52623d8923ab6bd545e407f4f57264f7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star-fill mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         <span>
           Unstar
-</span></button>        <a class="social-count js-social-count" href="/jhu-ep-coursera/fullstack-course4/stargazers"
-           aria-label="4459 users starred this repository">
-           4.5k
+</span></button>        <a class="social-count js-social-count" href="/vakar4uk/module3-solution/stargazers"
+           aria-label="1 user starred this repository">
+           1
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/jhu-ep-coursera/fullstack-course4/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FujHQjJgqz40mb/81YDaOcRvTCIk793nSXSOBido8mORf0enSUrU0y6Qrn946Kg8fQ8gOY0n9SMqso5n8+jbCQ==" />
+    <form class="unstarred js-social-form" action="/vakar4uk/module3-solution/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6OHZQagtUezJJpwLIOhq+dnVuvXVFUQQJxo3aLSIcx9o2TFX4I9LQLdPqd35r11/9/nnmAn6xpp0Bz4QFMD+Ag==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star jhu-ep-coursera/fullstack-course4" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="979c92273fb5b047aca359d8808921f521ad6158c16f99eae76d34915eaaa728" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star vakar4uk/module3-solution" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="72ceea2d11858fe2dd35020712893e41284731c21a2a72e5956c59512e8302d4" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star mr-1" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         <span>
           Star
-</span></button>        <a class="social-count js-social-count" href="/jhu-ep-coursera/fullstack-course4/stargazers"
-           aria-label="4459 users starred this repository">
-          4.5k
+</span></button>        <a class="social-count js-social-count" href="/vakar4uk/module3-solution/stargazers"
+           aria-label="1 user starred this repository">
+          1
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/jhu-ep-coursera/fullstack-course4/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mpwHAoy7cD5lYszgAw6rqJOrWlNBNMSEz7Bb2MsUItRv01UQ+QDiJe0kxiX2wknSdRBLgXf15pioIo/6fLLFtA==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="6cb95a4d7687e3a88b7922c831661a8cb07422bb048bef9eb64367fcade70853" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of jhu-ep-coursera/fullstack-course4 to your account" aria-label="Fork your own copy of jhu-ep-coursera/fullstack-course4 to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/vakar4uk/module3-solution/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TXOh4wphn/kkJATRLhFE3FZR0p7WLv1OeRh/bFXj5i/M17s+3ecn8SiikPEFExqas2hvfmnJmT7XrK9YT9210g==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="081abbdaab1ac4ab858e37b5ef18d3eb7fb024635709ee210a42d18b0031a477" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of vakar4uk/module3-solution to your account" aria-label="Fork your own copy of vakar4uk/module3-solution to your account">                <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
                 Fork
 </button></form>
-      <a href="/jhu-ep-coursera/fullstack-course4/network/members" class="social-count"
-         aria-label="7360 users forked this repository">
-        7.4k
+      <a href="/vakar4uk/module3-solution/network/members" class="social-count"
+         aria-label="6 users forked this repository">
+        6
       </a>
   </li>
 </ul>
@@ -923,7 +920,7 @@
 <nav aria-label="Repository" data-pjax="#js-repo-pjax-container" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5 bg-gray-light">
   <ul class="UnderlineNav-body list-style-none ">
           <li class="d-flex">
-        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /jhu-ep-coursera/fullstack-course4" href="/jhu-ep-coursera/fullstack-course4">
+        <a class="js-selected-navigation-item selected UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i0code-tab" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /vakar4uk/module3-solution" href="/vakar4uk/module3-solution">
               <svg class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
             <span data-content="Code">Code</span>
               <span title="Not available" class="Counter "></span>
@@ -931,15 +928,15 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /jhu-ep-coursera/fullstack-course4/issues" href="/jhu-ep-coursera/fullstack-course4/issues">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i1issues-tab" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-selected-links="repo_issues repo_labels repo_milestones /vakar4uk/module3-solution/issues" href="/vakar4uk/module3-solution/issues">
               <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"></path></svg>
             <span data-content="Issues">Issues</span>
-              <span title="4" class="Counter ">4</span>
+              <span title="0" hidden="hidden" class="Counter ">0</span>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /jhu-ep-coursera/fullstack-course4/pulls" href="/jhu-ep-coursera/fullstack-course4/pulls">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i2pull-requests-tab" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-selected-links="repo_pulls checks /vakar4uk/module3-solution/pulls" href="/vakar4uk/module3-solution/pulls">
               <svg class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
             <span data-content="Pull requests">Pull requests</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -947,7 +944,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /jhu-ep-coursera/fullstack-course4/actions" href="/jhu-ep-coursera/fullstack-course4/actions">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i3actions-tab" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-selected-links="repo_actions /vakar4uk/module3-solution/actions" href="/vakar4uk/module3-solution/actions">
               <svg class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path></svg>
             <span data-content="Actions">Actions</span>
               <span title="Not available" class="Counter "></span>
@@ -955,7 +952,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /jhu-ep-coursera/fullstack-course4/projects" href="/jhu-ep-coursera/fullstack-course4/projects">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i4projects-tab" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-selected-links="repo_projects new_repo_project repo_project /vakar4uk/module3-solution/projects" href="/vakar4uk/module3-solution/projects">
               <svg class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path></svg>
             <span data-content="Projects">Projects</span>
               <span title="0" hidden="hidden" class="Counter ">0</span>
@@ -963,7 +960,7 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /jhu-ep-coursera/fullstack-course4/wiki" href="/jhu-ep-coursera/fullstack-course4/wiki">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i5wiki-tab" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-selected-links="repo_wiki /vakar4uk/module3-solution/wiki" href="/vakar4uk/module3-solution/wiki">
               <svg class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path></svg>
             <span data-content="Wiki">Wiki</span>
               <span title="Not available" class="Counter "></span>
@@ -971,15 +968,15 @@
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /jhu-ep-coursera/fullstack-course4/security" href="/jhu-ep-coursera/fullstack-course4/security">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i6security-tab" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-selected-links="security overview alerts policy token_scanning code_scanning /vakar4uk/module3-solution/security" href="/vakar4uk/module3-solution/security">
               <svg class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path></svg>
             <span data-content="Security">Security</span>
-              <include-fragment src="/jhu-ep-coursera/fullstack-course4/security/overall-count" accept="text/fragment+html"></include-fragment>
+              <include-fragment src="/vakar4uk/module3-solution/security/overall-count" accept="text/fragment+html"></include-fragment>
 </a>
 
       </li>
       <li class="d-flex">
-        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /jhu-ep-coursera/fullstack-course4/pulse" href="/jhu-ep-coursera/fullstack-course4/pulse">
+        <a class="js-selected-navigation-item UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item" data-tab-item="i7insights-tab" data-ga-click="Repository, Navigation click, Insights tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /vakar4uk/module3-solution/pulse" href="/vakar4uk/module3-solution/pulse">
               <svg class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path></svg>
             <span data-content="Insights">Insights</span>
               <span title="Not available" class="Counter "></span>
@@ -999,35 +996,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4" href="/jhu-ep-coursera/fullstack-course4">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution" href="/vakar4uk/module3-solution">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/issues" href="/jhu-ep-coursera/fullstack-course4/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/issues" href="/vakar4uk/module3-solution/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/pulls" href="/jhu-ep-coursera/fullstack-course4/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/pulls" href="/vakar4uk/module3-solution/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/actions" href="/jhu-ep-coursera/fullstack-course4/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/actions" href="/vakar4uk/module3-solution/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/projects" href="/jhu-ep-coursera/fullstack-course4/projects">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/projects" href="/vakar4uk/module3-solution/projects">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/wiki" href="/jhu-ep-coursera/fullstack-course4/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/wiki" href="/vakar4uk/module3-solution/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/security" href="/jhu-ep-coursera/fullstack-course4/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/security" href="/vakar4uk/module3-solution/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /jhu-ep-coursera/fullstack-course4/pulse" href="/jhu-ep-coursera/fullstack-course4/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links=" /vakar4uk/module3-solution/pulse" href="/vakar4uk/module3-solution/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -1047,9 +1044,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/jhu-ep-coursera/fullstack-course4/blob/512081a38a32ee9ee70cc9f0ed55bc1040f3b343/examples/Lecture29/after/js/script.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/vakar4uk/module3-solution/blob/396b6fedd94eb9f16039a4862adc694677f0ba80/js/script.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:5d1787dc775ffef445c0a40c7e8cb5a391a1e01cb5e3315e2faa9d0dd83d68f7 -->
+    <!-- blob contrib key: blob_contributors:v22:11032f1f5cdabc7593e822e86f39ebf5e72677d7b8d6fc43102bea9afebce20c -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1063,7 +1060,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/jhu-ep-coursera/fullstack-course4/refs/master/examples/Lecture29/after/js/script.js?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/vakar4uk/module3-solution/refs/master/js/script.js?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -1075,9 +1072,9 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jhu-ep-coursera/fullstack-course4"><span>fullstack-course4</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jhu-ep-coursera/fullstack-course4/tree/master/examples"><span>examples</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture29"><span>Lecture29</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture29/after"><span>after</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture29/after/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/vakar4uk/module3-solution"><span>module3-solution</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/vakar4uk/module3-solution/tree/master/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
       </h2>
-      <a href="/jhu-ep-coursera/fullstack-course4/find/master"
+      <a href="/vakar4uk/module3-solution/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
             data-pjax
             data-hotkey="t">
@@ -1090,7 +1087,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:51732606,&quot;originating_url&quot;:&quot;https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture29/after/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="63896a6f4d2d84d146033386ab959b085d95fb1068cd6f4b0e123fb15e0e1df8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/jhu-ep-coursera/fullstack-course4/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:103604721,&quot;originating_url&quot;:&quot;https://github.com/vakar4uk/module3-solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:74436929}}" data-hydro-click-hmac="0a518668cd40b981444a6225fab2fcc90b5c9d0afc01fd55e5d8136eb72391e8" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/vakar4uk/module3-solution/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -1104,7 +1101,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="examples/Lecture29/after/js/script.js" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="js/script.js" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -1114,7 +1111,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/jhu-ep-coursera/fullstack-course4/contributors/master/examples/Lecture29/after/js/script.js" class="commit-loader">
+      <include-fragment src="/vakar4uk/module3-solution/contributors/master/js/script.js" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1145,8 +1142,8 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/jhu-ep-coursera/fullstack-course4/raw/master/examples/Lecture29/after/js/script.js" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/jhu-ep-coursera/fullstack-course4/blame/master/examples/Lecture29/after/js/script.js" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/vakar4uk/module3-solution/raw/master/js/script.js" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/vakar4uk/module3-solution/blame/master/js/script.js" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -1158,13 +1155,13 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/jhu-ep-coursera/fullstack-course4/edit/master/examples/Lecture29/after/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="z1Ng3xxBtedj5OIGxqYfMb9GIQA5kmi1Em5iC5EXmX78TN06zt88ZHau3cHlK5PA1jjEZ5PmnbXPB7GJvX7P8Q==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/vakar4uk/module3-solution/edit/master/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cHL7rTV2eRdmO11mrGtcRIzrLm41WrQMYyaWP5NT0I65T6sMjBAc5hQATANPSjK0gTLiWHyPsZwH7CRkdAlefg==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/jhu-ep-coursera/fullstack-course4/delete/master/examples/Lecture29/after/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LBeFsrhPXUZDjRURu0oBh0ZtG5MHGFYV8f5O7JRPYWZaGrE/8iHHhEGCRssm6qtNEfj5COuXOWFFdkacFzcpBA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/vakar4uk/module3-solution/delete/master/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="804fS0v1WD736uSL1AvgtGGhYdEbyGndFh/PicXD0RwkV5to1Kgm/3TJ8TTLrrpDtrPgQiBHqRLK2WtEKyoZMA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
@@ -1196,8 +1193,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/jhu-ep-coursera/fullstack-course4/blame/512081a38a32ee9ee70cc9f0ed55bc1040f3b343/examples/Lecture29/after/js/script.js">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/jhu-ep-coursera/fullstack-course4/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/vakar4uk/module3-solution/blame/396b6fedd94eb9f16039a4862adc694677f0ba80/js/script.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/vakar4uk/module3-solution/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
