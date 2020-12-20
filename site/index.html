@@ -1,9 +1,83 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hello Coursera!</title>
+<meta charset="utf-8">
+<title>Hello Coursera!</title>
+<link rel="stylesheet" href="style.css">
+
+<style>
+*{
+	box-sizing: border-box;
+}
+
+header li {
+	list-style:none;
+}
+a:link, a:visited{
+	text-decoration: none;
+	background-color:green;
+	border: 1px solid blue;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 1px;
+}
+
+a:hover, a:active {
+	background-color: red;
+	color: purple;
+}
+
+header li:nth-child(2) {
+	font-size: 24px
+}
+
+section div:nth-child(even):hover{
+	background-color:gray;
+}
+
+div,span{
+	background-color: blue;
+}
+
+</style>
 </head>
 <body>
-<h1> Hello Coursera! It's a great course!</h1>
+<h1> Hello Coursera!</h1>
+
+<header>
+<ul>
+	<li><a href="/">Home</a></li>
+	<li><a href="http://www.google.com"
+	target="_blank">Google</a></li>
+
+<div>Hello</div>
+<span>World!</span>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-4 col-sm-6">Col 1</div>
+		<div class="col-md-4 col-sm-6">Col 2</div>
+		<div class="col-md-4 col-sm-6">Col 3</div>
+	</div>
+
+<!--@media (min width: 1200px) {
+	p{
+	color:blue;
+	}
+}-->
+<!--<meta name="viewport" content="width=device-width, initial-scale-1">-->
+
+<!--container or container-fluid, grid needs to be inside container wrapper. 
+
+container class, then row class--
+
+col-SIZE-SPAN: 
+	SIZE is screen width identifier
+	SPAN is how many columns, values 1 to 12>
+
+/*large devices 1200px, medium devices 992px max 1199px/
+
 </body>
 </html>
